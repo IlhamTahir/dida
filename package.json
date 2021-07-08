@@ -1,0 +1,14 @@
+{
+  "name": "dida",
+  "version": "1.0.0",
+  "description": "a dida client for my linux machine",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "IlhamTahir",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^13.1.6"
+  }
+}
